@@ -4,9 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node --watch server.js",
-    "cron": "node --watch cronjobs/trackEnergyUsage/energyUsageCronjob.js",
-    "seed": "node --watch utils/appendSparkMeter.js"
+    "dev": "node --watch server.js"
   },
   "keywords": [],
   "author": "shasa",
