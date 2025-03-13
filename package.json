@@ -1,5 +1,5 @@
 {
-  "name": "grid-backend",
+  "name": "mpesa-payments",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "dev": "node --watch server.js"
   },
   "keywords": [],
-  "author": "shasa",
+  "author": "@DevShasa",
   "license": "ISC",
   "description": "",
   "dependencies": {
