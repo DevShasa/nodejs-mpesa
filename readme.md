@@ -1,6 +1,6 @@
 # Grid Payment APIs - README
 
-This document outlines the structure and functionality of the Grid Payment APIs, which handle payment processing via Safaricom's M-Pesa service.
+This document outlines the structure and functionality of the Mpesa Payment APIs, which handle payment processing via Safaricom's M-Pesa service.
 
 ## Overview
 
