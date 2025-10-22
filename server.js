@@ -28,7 +28,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-const apiVersion = '/grid/v1';
+const apiVersion = '/payment';
 
 app.use(`${apiVersion}/`, mpesaRoutes)
 

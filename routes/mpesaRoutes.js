@@ -13,7 +13,7 @@ const {
 	checkAmmountPhone,
 } = require("../middleware/mpesaMiddleWare");
 
-const basePath = "/safpayment";
+const basePath = "/handle";
 
 /**
  * @route POST /safpayment/stkpush

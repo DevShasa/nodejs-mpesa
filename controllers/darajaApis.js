@@ -1,7 +1,7 @@
 
 const CALLBACKENDPOINT="https://c851-196-216-70-170.ngrok-free.app"
-const STKCALLBACK = `${CALLBACKENDPOINT}/grid/v1/safpayment/callback`
-const C2BPAYBILLCALBACK = `${CALLBACKENDPOINT}/grid/v1/safpayment/paybillcallback`
+const STKCALLBACK = `${CALLBACKENDPOINT}/payment/handle/callback`
+const C2BPAYBILLCALBACK = `${CALLBACKENDPOINT}/payment/handle/paybillcallback`
 
 /**
  * @async
